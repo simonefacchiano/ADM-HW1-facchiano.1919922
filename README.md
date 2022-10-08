@@ -9,5 +9,7 @@ Same thing for PROBLEM 2. I uploaded two files:
 The first containing all the challenges in a single script;
 The second divided in cells.
 
-Finally, for PROBLEM 3:
+I also uploaded a PDF file containing the screenshots of the submission page of HackerRank
+
+Finally, for PROBLEM 3 I uploaded a PDF file containing the screesnhots attesting to completion of the form.
 
